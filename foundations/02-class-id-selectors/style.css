@@ -5,3 +5,8 @@ p {
 .special-boy{
     font-size: 24px;
 }
+
+#big-blue {
+    color: blue;
+    font-size: 36px;
+}
