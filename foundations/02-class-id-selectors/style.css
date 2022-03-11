@@ -10,3 +10,9 @@ p {
     color: blue;
     font-size: 36px;
 }
+
+#good-green{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 900;
+}
