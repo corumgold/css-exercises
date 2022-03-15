@@ -30,4 +30,5 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  padding: .75em 1.25em;
 }
