@@ -22,6 +22,7 @@ a {
   font-size: 22px;
   background: white;
   padding: 8px;
+  margin: .25em;
   /* this removes the line under the links */
   text-decoration: none;
 }
