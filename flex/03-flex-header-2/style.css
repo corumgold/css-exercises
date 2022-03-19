@@ -31,6 +31,10 @@ body {
   font-style: italic;
 }
 
+.links{
+  display: flex;
+}
+
 button {
   border: none;
   border-radius: 8px;
