@@ -17,6 +17,7 @@ body {
 
 .modal {
   background: white;
+  display: flex;
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
@@ -24,6 +25,7 @@ body {
 
 .icon {
   color: royalblue;
+  flex: 1 0 auto;
   font-size: 26px;
   font-weight: 700;
   background: lavender;
