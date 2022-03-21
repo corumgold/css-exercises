@@ -47,8 +47,14 @@ body {
   height: 24px;
   width: 24px;
   display: flex;
+  flex: 1 0 auto;
+  margin: .75em .75em .75em -1em;
   align-items: center;
   justify-content: center;
+}
+
+.content{
+  margin: 1em 0;
 }
 
 button {
