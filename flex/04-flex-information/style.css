@@ -4,6 +4,9 @@ body {
 
 .images-section {
   display: flex;
+  flex-direction: row;
+  margin: 4em;
+
 }
 
 .image-with-description {
@@ -24,6 +27,7 @@ img {
   font-size  : 36px;
   font-weight: 900;
   text-align: center;
+  margin-bottom: -1em;
 }
 
 /* do not edit this footer */
