@@ -30,12 +30,14 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  margin: 0 -0.25em 0 0.25em;
 }
 
 .links{
   display: flex;
   justify-content: space-between;
   padding: 0;
+  margin: 1em;
 }
 
 button {
@@ -51,6 +53,7 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
+  margin-left: .75em;
 }
 
 ul {
