@@ -33,6 +33,7 @@ body {
   height: 42px;
   border-radius: 50%;
   display: flex;
+  margin: 0.5em;
   align-items: center;
   justify-content: center;
 }
