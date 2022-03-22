@@ -36,6 +36,7 @@ body {
 
 .content{
   display: flex;
+  
 }
 
 .sidebar {
@@ -49,6 +50,7 @@ body {
 .cards{
   display: flex;
   flex-wrap: wrap;
+  flex: 1 1 auto;
 }
 
 .card {
@@ -56,12 +58,12 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   width: 350px;
+  padding: 1em 1em 4em 1em;
 }
 
 ul{
   list-style: none;
   padding: 0;
-  font-sp
 }
 
 a{
